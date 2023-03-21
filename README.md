@@ -3,7 +3,7 @@
 
 ## **Project Description**
 
-* The goal of this project is to investigate the capability of Deep Learning Models to reproduce sentiment analysis scores produced by the NLTK package's **"Sentiment Intensity Analyzer".**
+* The goal of this project is to investigate the capability of Deep Learning Models to reproduce sentiment analysis scores produced by the NLTK package's **"Sentiment Intensity Analyzer()".**
 
 * To accomplish this, a minimum of 1000 tweets related to any person or organization of interest will be extracted using the "snscrape" package from Twitter.
 

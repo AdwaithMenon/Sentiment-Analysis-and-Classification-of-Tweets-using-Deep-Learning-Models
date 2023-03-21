@@ -1,4 +1,4 @@
-# _**Sentiment Analysis on Tweets**_
+# _**Sentiment Analysis and Classification of Tweets using Deep Learning Models**_
 
 
 ## **Project Description**

@@ -11,7 +11,7 @@
 
 * These scores will be used as our target variables for Deep Learning Model training, which will rely exclusively on tweet text to predict the sentiment scores.
 
-### **Brief Summary about the Individuals**
+### **Brief Summary about the Individuals of Interest**
 
 * Joe Biden and Elon Musk are influential figures who have amassed millions of followers across various demographics. Their followers hold their statements and opinions in high regard, often viewing them as valuable advice for self-improvement. 
 

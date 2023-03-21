@@ -5,7 +5,7 @@
 
 * The goal of this project is to investigate the capability of Deep Learning Models to reproduce sentiment analysis scores produced by the NLTK package's **"Sentiment Intensity Analyzer".**
 
-* To accomplish this, a minimum of **1000 tweets** related to any person or organization of interest will be extracted using the "snscrape" package from Twitter.
+* To accomplish this, a minimum of 1000 tweets related to any person or organization of interest will be extracted using the "snscrape" package from Twitter.
 
 * The Sentiment Intensity Analyzer() will be applied to each tweet, resulting in four sentiment scores: positive, negative, neutral, and composite.
 
@@ -15,7 +15,7 @@
 
 * Joe Biden and Elon Musk are influential figures who have amassed millions of followers across various demographics. Their followers hold their statements and opinions in high regard, often viewing them as valuable advice for self-improvement. 
 
-* In this context, the social media content they produce reaches not only millions of people in the US, but also individuals around the world.This is of particular interest to us, as people tend to be influenced by the opinions of these two individuals when making financial decisions.
+* In this context, the social media content they produce reaches not only millions of people in the US, but also individuals around the world. This is of particular interest to us, as people tend to be influenced by the opinions of these two individuals when making financial decisions.
 
 
 

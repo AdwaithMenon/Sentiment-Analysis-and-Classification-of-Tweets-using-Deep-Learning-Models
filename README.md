@@ -14,10 +14,26 @@
 <img width="529" alt="image" src="https://user-images.githubusercontent.com/70052374/226695593-3817ee1d-04e9-4660-b1e3-3e419294e7d0.png">
 
 
+* Based on the Word Cloud, it is evident that "American" is the word with the highest frequency of occurrence.
 
-*
+### **Histograms**
 
-* 
+* Histogram for Negative Score
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/70052374/226705148-a9d7f0ad-da11-451b-8092-c54f7c827817.png">
+
+- We can observe that the histogram for Negative Score is right-skewed.
+
+
+* Histogram for Neutral Score
+
+<img width="298" alt="image" src="https://user-images.githubusercontent.com/70052374/226705220-81d70a09-c59e-4b91-8b8a-8ff73ba233e5.png">
+
+
+* Histogram for Positive Score
+
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/70052374/226705310-d334d1f7-d33c-4d02-a431-72b05a9d0e5a.png">
+
 
 ## **Model Comparison**
 

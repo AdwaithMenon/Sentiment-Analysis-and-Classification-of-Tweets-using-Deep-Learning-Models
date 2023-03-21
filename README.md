@@ -5,6 +5,19 @@
 
 ## **Observations**
 
+* Joe Biden has posted approximately **7.5K tweets**. After analyzing his tweets, it was discovered that he has a total of 2,874,090 retweets, averaging about 57,481 retweets per tweet. A word cloud generated from his tweets shows that most of them contain **positive language**, with a strong emphasis on his concern for the country, as evidenced by frequent mentions of **"nation"**,**"US"**, and **"America".**
+
+* Elon Musk has posted around **21,000 tweets**, to date. After analyzing his tweets, it was found that he frequently discusses four key stocks: **Bitcoin**, **Dogecoin**, **Tesla**, and **Twitter**. Musk is certainly unique in his tweeting style, with most of his posts being controversial and containing a **mix of sentiments**. Additionally, he has recently faced issues with Twitter, which have gained public attention.
+
+* **Word Cloud**
+
+<img width="529" alt="image" src="https://user-images.githubusercontent.com/70052374/226695593-3817ee1d-04e9-4660-b1e3-3e419294e7d0.png">
+
+
+
+*
+
+* 
 
 ## **Model Comparison**
 

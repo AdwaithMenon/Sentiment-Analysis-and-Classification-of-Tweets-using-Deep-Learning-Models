@@ -20,9 +20,9 @@
 
 * Upon examining the RMSE and MAE values for the test data, it is evident that both CountVectorizer() and TfidfVectorizer() produce similar results.
 
-* Out of the four models considered, CountVectorizer() and TfidfVectorizer() are the most effective, as they exhibit lower RMSE and MAE values along with high R-squared values.
+* Out of the four models considered, **CountVectorizer()** and **TfidfVectorizer()** are the most effective, as they exhibit lower RMSE and MAE values along with high R-squared values.
 
-* Moreover, these models demonstrate higher accuracy in predicting the Negative and Positive scores, compared to the Neutral and Compound scores.
+* Moreover, these models demonstrate higher accuracy in predicting the **Negative** and **Positive** scores, compared to the Neutral and Compound scores.
 
 
 

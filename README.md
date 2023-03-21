@@ -18,21 +18,21 @@
 
 ### **Histograms**
 
-* Histogram for Negative Score
+* **Histogram for Negative Score**
 
 <img width="318" alt="image" src="https://user-images.githubusercontent.com/70052374/226705148-a9d7f0ad-da11-451b-8092-c54f7c827817.png">
 
 - We can observe that the histogram for Negative Score is right-skewed.
 
 
-* Histogram for Neutral Score
+* **Histogram for Neutral Score**
 
 <img width="298" alt="image" src="https://user-images.githubusercontent.com/70052374/226705220-81d70a09-c59e-4b91-8b8a-8ff73ba233e5.png">
 
 - We can observe that the histogram for Neutral Score is left-skewed.
 
 
-* Histogram for Positive Score
+* **Histogram for Positive Score**
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/70052374/226705310-d334d1f7-d33c-4d02-a431-72b05a9d0e5a.png">
 

@@ -39,6 +39,29 @@
 - We can observe that the histogram for Positive Score is right-skewed.
 
 
+## **Model Architecture**
+
+### **Model-1A : CountVectorizer with Dense Neural Networks**
+
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/70052374/226707125-a4c084bd-c73f-4ecc-9bf2-9c9ccde0303d.png">
+
+
+### **Model-1B TF-IDF with Dense layers**
+
+
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/70052374/226707339-04236e87-9782-4ccb-bd13-d847a6778872.png">
+
+
+### **Model 2: Flattened Word Embeddings into a Dense Neural Network**
+
+<img width="389" alt="image" src="https://user-images.githubusercontent.com/70052374/226707543-05b37ece-a942-4773-afd5-611e02a35cc7.png">
+
+### **Model 3 : Advanced Deep Learning Model**
+
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/70052374/226708040-4bf77f6a-0d1a-41e7-8357-d836c1369ab6.png">
+
+
+
 ## **Model Comparison**
 
 ### **RMSE**

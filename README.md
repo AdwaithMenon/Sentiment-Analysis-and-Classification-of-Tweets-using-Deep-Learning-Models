@@ -9,7 +9,7 @@
 
 * Elon Musk has posted around **21,000 tweets**, to date. After analyzing his tweets, it was found that he frequently discusses four key stocks: **Bitcoin**, **Dogecoin**, **Tesla**, and **Twitter**. Musk is certainly unique in his tweeting style, with most of his posts being controversial and containing a **mix of sentiments**. Additionally, he has recently faced issues with Twitter, which have gained public attention.
 
-* **Word Cloud**
+### **Word Cloud**
 
 <img width="529" alt="image" src="https://user-images.githubusercontent.com/70052374/226695593-3817ee1d-04e9-4660-b1e3-3e419294e7d0.png">
 
